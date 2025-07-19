@@ -63,7 +63,7 @@ checkout
  Use placeholder.co for all product images with detailed alt text 
  Include variety of glasses styles appealing to students
 
-What are the key features of Op Vision 
+# What are the key features of Op Vision 
  
  Real-Time AR Try-On: Users can see how different frames look on their 
 faces using augmented reality technology, allowing for a more 
